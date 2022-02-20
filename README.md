@@ -1,9 +1,14 @@
 # RoseGoldAddons Feature List:
-<details><summary>CLICK ME</summary>
+<details><summary>Toggle using a keybind</summary>
 
-#### We can hide anything, even code!
+<details><summary>Auto Arrow Align</summary>
 
-```ruby
-puts "Hello World"
-```
+- Click keybind to instantly solve Floor 7's Arrow Align terminal
+		
+</details>
+
+</details>
+
+<details><summary>Toggle using the config menu</summary>
+
 </details>
