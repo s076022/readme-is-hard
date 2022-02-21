@@ -31,10 +31,10 @@
 	- 
 	
 	</details>
-</details>
+### </details>
 
 ### <details><summary>Config Menu</summary>
 <p>
 
 </p>
-</details>
+### </details>
