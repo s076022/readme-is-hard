@@ -26,9 +26,9 @@
 <details><summary>Custom Item Macro</summary>
 	
 - Toggle to start custom item macros
-- See [^Custom Item Macro]	
+- See [^1]	
 </details>
 
 ### Config Menu
 
-[^Custom Item Macro]: Explanation of Custom Item Macros:
+[^1]: Explanation of Custom Item Macros:
