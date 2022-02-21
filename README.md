@@ -28,7 +28,7 @@
 <details><summary>Custom Item Macro</summary>
 	
 - Toggle to start all Custom Item Macros
-- See [Explanation of Custom Item Macros](./README.md#explanation-of-custom-item-macros)
+- See [Explanation of Custom Item Macros](#explanation-of-custom-item-macros)
 </details>
 
 ### Config Menu:
