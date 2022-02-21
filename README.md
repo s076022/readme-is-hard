@@ -67,5 +67,5 @@ Usage: `/usecooldown [milliseconds] [left]`
 	- Enchanted Bonemeal
 	- Fishing Rod
 - Auto Pet rules: 
-	- On Rod Thow -> Equip Monkey
-	- On Foraging XP Gain -> Equip Ocelot  
+	- `When: You throw a fishing hook` -> `Equip Monkey`
+	- `When: You gain Foraging XP` -> `Equip Ocelot`
