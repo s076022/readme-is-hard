@@ -1,6 +1,3 @@
-
-
-
 # RoseGoldAddons Feature List:
 ### Keybinds
 <details>
@@ -32,9 +29,5 @@
 	
 </details>
 
-<details>
-<summary>**Config Menu**</summary>
-<p>
 
-</p>
-</details>
+### Config Menu
