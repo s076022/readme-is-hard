@@ -109,6 +109,8 @@ Usage: `/usecooldown [milliseconds] [left]`
 
 #### Explanation of Foraging Island Macro:
 
+- Macro was made for [this method of foraging](https://youtu.be/ZPdeElnhB08) 
+
 - Make sure the only 4 dirt blocks in range of the player are the ones to plant the tree on
 
 - Make sure the tree can grow naturally:
