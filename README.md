@@ -19,7 +19,7 @@
 </details>
 <details><summary>Crop Nuker</summary>
 	
-- Toggle to start nuking
+- Toggle to start breaking crops in range of the player
 - Change configuration in the RoseGoldAddons config menu under "Farming"
 	
 </details>
@@ -32,6 +32,7 @@
 <details><summary>Enderman Macro</summary>
 	
 - Toggle to start Enderman Macro
+- Uses Precursor Eye to shoot Endermen around the player
 - Change configuration in the RoseGoldAddons config menu under "Macros"
 </details>
 <details><summary>Foraging Island Macro</summary>
@@ -39,6 +40,59 @@
 - Toggle to start Foraging Island Macro
 - Change configuration in the RoseGoldAddons config menu under "Foraging"
 - See [Explanation of Foraging Island Macro](#explanation-of-foraging-island-macro)
+</details>
+<details><summary>Foraging Nuker</summary>
+	
+- Toggle to start foraging trees in range of the player
+</details>
+<details><summary>Gemstone Nuker</summary>
+	
+- Toggle to start mining gemstones in range of the player
+- Uses Mining Speed Boost
+</details>
+<details><summary>Ghost Macro</summary>
+	
+- Toggle to start looking at closest ghost
+- Recommended to use with other features such as custom item macros
+</details>
+<details><summary>Hardstone Nuker</summary>
+	
+- Toggle to start Hardstone Nuker
+- Includes powder chest solver
+- Change configuration in the RoseGoldAddons config menu under "Mining"
+</details>
+<details><summary>Hardstone Nuker</summary>
+	
+- Toggle to start Hardstone Nuker
+- Includes powder chest solver
+- Change configuration in the RoseGoldAddons config menu under "Mining"
+</details>
+<details><summary>Mithril Macro</summary>
+	
+- Toggle to start a "legit" version of Mithril Nuker
+</details>
+<details><summary>Mithril Nuker</summary>
+
+- Toggle to start a Mithril Nuker
+- Automatically mines mithril around the player
+- Change configuration in the RoseGoldAddons config menu under "Mining"
+- No failsafes
+</details>
+<details><summary>Mithril Nuker</summary>
+	
+- Toggle to start a Mithril Nuker
+- Automatically mines mithril around the player
+- Change configuration in the RoseGoldAddons config menu under "Mining"
+- No failsafes
+</details>
+<details><summary>Necron Aimbot</summary>
+	
+- Toggle to lock onto necron
+- I dont know why this is a feature, blame APhatL
+</details>
+<details><summary>Powder Macro</summary>
+	
+- Hardstone Nuker minus the Hardstone Nuker
 </details>
 
 ### Config Menu:
