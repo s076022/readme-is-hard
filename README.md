@@ -1,10 +1,13 @@
 # RoseGoldAddons Feature List:
-<details><summary>Toggle using a keybind</summary>
+<details>
+<summary>Toggle using a keybind</summary>
+	
 - All these modules are toggled usign a keybind
 	<details>
 	<summary>Auto Arrow Align</summary>
 
 	- &emsp;Click keybind to instantly solve Floor 7's Arrow Align terminal
+		
 	</details>
 </details>
 
