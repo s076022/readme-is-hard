@@ -27,6 +27,18 @@
 	
 - Toggle to start all Custom Item Macros
 - See [Explanation of Custom Item Macros](#explanation-of-custom-item-macros)
+- Saves between sessions
+</details>
+<details><summary>Enderman Macro</summary>
+	
+- Toggle to start Enderman Macro
+- Change configuration in the RoseGoldAddons config menu under "Macros"
+</details>
+<details><summary>Foraging Island Macro</summary>
+	
+- Toggle to start Foraging Island Macro
+- Change configuration in the RoseGoldAddons config menu under "Foraging"
+- See [Explanation of Foraging Island Macro](#explanation-of-foraging-island-macro)
 </details>
 
 ### Config Menu:
@@ -40,3 +52,20 @@ Usage: `/usecooldown [milliseconds] [left]`
 - Use `/usecooldown 7000` to set a custom macro for Wand of Atonement
 
 - Use `/usecooldown 100 left` to set a custom macro for Terminator
+
+#### Explanation of Foraging Island Macro:
+
+- Make sure the only 4 dirt blocks in range of the player are the ones to plant the tree on
+
+- Make sure the tree can grow naturally:
+	-  There is enough air above the dirt to let the tree grow
+	- There are no solid blocks surrounding the tree
+
+- Need to have in inventory:
+	- Treecapitator
+	- Jungle / Dark Oak / Spruce Saplings
+	- Enchanted Bonemeal
+	- Fishing Rod
+- Auto Pet rules: 
+	- On Rod Thow -> Equip Monkey
+	- On Foraging XP Gain -> Equip Ocelot  
