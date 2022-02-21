@@ -88,11 +88,10 @@
 <details><summary>Necron Aimbot</summary>
 	
 - Toggle to lock onto necron
-- I dont know why this is a feature, blame APhatL
 </details>
 <details><summary>Powder Macro</summary>
 	
-- Hardstone Nuker minus the Hardstone Nuker
+Auto solve Powder chests
 </details>
 
 ### Config Menu:
