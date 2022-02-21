@@ -1,6 +1,6 @@
 
 # RoseGoldAddons Feature List:
-### Keybinds
+### Keybinds:
 <details><summary>Auto Arrow Align</summary>
 	
 - Click keybind to instantly solve Floor 7's Arrow Align terminal
@@ -30,7 +30,7 @@
 - See Explanation of Custom Item Macros[^1]	
 </details>
 
-### Config Menu
+### Config Menu:
 
 #### Explanation of Custom Item Macros:
 	
