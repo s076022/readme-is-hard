@@ -1,5 +1,3 @@
-
-
 # RoseGoldAddons Feature List:
 ### Keybinds:
 <details><summary>Auto Arrow Align</summary>
