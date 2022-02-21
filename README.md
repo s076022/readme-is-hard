@@ -1,3 +1,4 @@
+
 # RoseGoldAddons Feature List:
 ### Keybinds
 <details><summary>Auto Arrow Align</summary>
@@ -31,4 +32,9 @@
 
 ### Config Menu
 
-[^1]: Explanation of Custom Item Macros:
+[^1]: 
+	Explanation of Custom Item Macros:
+	Usage: `/usecooldown [milliseconds] [left]`
+	Will create a new custom macro for the currently held item
+	Use `/usecooldown 7000` to set a macro for Wand of Atonement
+	Use `/usecooldown 100 left` to set a macro for Terminator
