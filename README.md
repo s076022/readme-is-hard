@@ -61,11 +61,13 @@ Usage: `/usecooldown [milliseconds] [left]`
 	-  There is enough air above the dirt to let the tree grow
 	- There are no solid blocks surrounding the tree
 
-- Need to have in inventory:
+- Need to have in hotbar:
 	- Treecapitator
 	- Jungle / Dark Oak / Spruce Saplings
 	- Enchanted Bonemeal
 	- Fishing Rod
-- Auto Pet rules: 
+- Autopet rules: 
 	- `When: You throw a fishing hook` -> `Equip Monkey`
 	- `When: You gain Foraging XP` -> `Equip Ocelot`
+
+- You can set up a redstone clock hooked up to a dropper system to allow for full automation
