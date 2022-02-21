@@ -16,6 +16,14 @@
 	- Toggle to shoot blood room enemies that are looked at
 		
 	</details>
+	<details>
+	<summary>Brewing Macro</summary>
+	
+	- Toggle to start automatically brewing potions
+	- Supports Speed and  Weakness potions
+	- Change modes and other options in the RoseGoldAddons config menu under "Alchemy"
+	
+	</details>
 </details>
 
 <details>
