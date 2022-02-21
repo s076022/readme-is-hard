@@ -1,8 +1,8 @@
 
 
+
 # RoseGoldAddons Feature List:
-<details>
-<summary>**Keybinds**</summary>
+### Keybinds
 
 - All these modules are toggled using a keybind
 	<details>
@@ -33,7 +33,6 @@
 	- 
 	
 	</details>
-</details>
 
 <details>
 <summary>**Config Menu**</summary>
