@@ -61,15 +61,11 @@
 - Includes powder chest solver
 - Change configuration in the RoseGoldAddons config menu under "Mining"
 </details>
-<details><summary>Hardstone Nuker</summary>
-	
-- Toggle to start Hardstone Nuker
-- Includes powder chest solver
-- Change configuration in the RoseGoldAddons config menu under "Mining"
-</details>
+
 <details><summary>Mithril Macro</summary>
 	
-- Toggle to start a "legit" version of Mithril Nuker
+- Head rotations while mining mithril to make it more legin
+- Failsafes Included
 </details>
 <details><summary>Mithril Nuker</summary>
 
@@ -78,28 +74,21 @@
 - Change configuration in the RoseGoldAddons config menu under "Mining"
 - No failsafes
 </details>
-<details><summary>Mithril Nuker</summary>
-	
-- Toggle to start a Mithril Nuker
-- Automatically mines mithril around the player
-- Change configuration in the RoseGoldAddons config menu under "Mining"
-- No failsafes
-</details>
+
 <details><summary>Necron Aimbot</summary>
 	
 - Toggle to lock onto necron
-- I dont know why this is a feature, blame APhatL
 </details>
 <details><summary>Powder Macro</summary>
 	
-- Hardstone Nuker minus the Hardstone Nuker
+- Auto solve Powder chests
 </details>
 
 ### Config Menu:
 
 #### Explanation of Custom Item Macros:
 	
-Usage: `/usecooldown [milliseconds] [left]`
+Usage: `/usecooldown [milliseconds] [left (leave blank for right click)]` 
 
 - Will create a new custom macro for the currently held item
 
