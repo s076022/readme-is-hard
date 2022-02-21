@@ -23,6 +23,12 @@
 - Change configuration in the RoseGoldAddons config menu under "Farming"
 	
 </details>
-
+<details><summary>Custom Item Macro</summary>
+	
+- Toggle to start custom item macros
+- See [^Custom Item Macro]	
+</details>
 
 ### Config Menu
+
+[^Custom Item Macro]: Explanation of Custom Item Macros:
