@@ -6,7 +6,7 @@
 	<details>
 	<summary>Auto Arrow Align</summary>
 
-	- &emsp;Click keybind to instantly solve Floor 7's Arrow Align terminal
+	- Click keybind to instantly solve Floor 7's Arrow Align terminal
 		
 	</details>
 </details>
