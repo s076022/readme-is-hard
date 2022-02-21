@@ -34,7 +34,7 @@
 
 #### Explanation of Custom Item Macros:
 	
-- Usage: `/usecooldown [milliseconds] [left]`
+Usage: `/usecooldown [milliseconds] [left]`
 
 - Will create a new custom macro for the currently held item
 
