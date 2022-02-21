@@ -5,7 +5,6 @@
 - All these modules are toggled usign a keybind
 	<details>
 	<summary>Auto Arrow Align</summary>
-
 	- Click keybind to instantly solve Floor 7's Arrow Align terminal
 		
 	</details>
