@@ -1,9 +1,8 @@
 
 # RoseGoldAddons Feature List:
-<details>
-<summary>Toggle using a keybind</summary>
+### <details><summary>Keybinds</summary>
 
-- All these modules are toggled usign a keybind
+- All these modules are toggled using a keybind
 	<details>
 	<summary>Auto Arrow Align</summary>
 	
@@ -24,10 +23,17 @@
 	- Change modes and other options in the RoseGoldAddons config menu under "Alchemy"
 	
 	</details>
+	<details>
+	<summary>Crop Nuker</summary>
+	
+	- Toggle to start nuking
+	- Change configuration in the RoseGoldAddons config menu under "Farming"
+	- 
+	
+	</details>
 </details>
 
-<details>
-<summary>Toggle using the config menu</summary>
+### <details><summary>Config Menu</summary>
 <p>
 
 </p>
